@@ -1,4 +1,4 @@
-package day9;
+package day9.homeWork;
 
 import org.junit.AfterClass;
 import org.junit.Assert;
